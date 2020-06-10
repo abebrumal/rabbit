@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WhiteRabbit</string>
+    <string name="no_employee_fond">Oops! No Employees found at the moment.</string>
+</resources>
